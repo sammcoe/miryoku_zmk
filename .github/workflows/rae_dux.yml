@@ -10,4 +10,4 @@ jobs:
     with:
       board: '["nice_nano_v2"]'
       shield: '["rae_dux_left","rae_dux_right"]'
-      alphas: "QWERTY"
+      alphas: '["QWERTY"]'
